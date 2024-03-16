@@ -1,4 +1,4 @@
-Student Number: 28314
+Student Number: s28314
 
 Original List: [2, 20, 3, 10]
 Original Tuple: (1, 2, 3)
@@ -23,5 +23,5 @@ Set to Tuple: (1, 2, 3)
 Set to Dictionary: {1: 1, 2: 4, 3: 9}
 Dictionary to List: ['number1', 1, 'number3', 3, 'number4', 4]
 Dictionary to Tuple: ('number1', 1, 'number3', 3, 'number4', 4)
-Dictionary to Set: {1, 3, 4, 'number1', 'number3', 'number4'}
+Dictionary to Set: {1, 3, 'number1', 4, 'number4', 'number3'}
 New line 
